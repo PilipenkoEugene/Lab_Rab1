@@ -1,0 +1,23 @@
+using System;
+
+public class HelloWorld
+{
+    static public void Main ()
+    {
+        Console.WriteLine ("Lab rab N1");
+		 Console.WriteLine ("Developing console programm");
+		 Console.WriteLine ("");
+		 Console.WriteLine ("Pilipenko Eugene Michailovich");
+		 Console.WriteLine ("INS-b-o-19-1, 09.03.02");
+		 Console.WriteLine ("11.08.2001");
+		 Console.WriteLine ("Stavropol");
+		 Console.WriteLine ("Literature");
+		 Console.WriteLine ("Learning, sport, drugs, rock-n-roll");
+		 
+		 Console.WriteLine ("Next Step");
+		 double c, gh = 1, b = 2, q3 = 3, x = 4, y = 5, w = 6;
+		 c = gh + b * q3 - x + y / w;
+		 Console.WriteLine(c);
+    } 
+   
+}
